@@ -1,5 +1,6 @@
 # Typescript
 <p>Curso Básico TypeScript</p>
+<p> Neste curso você vai aprender os recursos básicos de TypeScript, um superset de #JavaScript que adiciona novas funcionalidades a linguagem #Matheus Battisti</p>
 
 ## O que é TypeScript?
 <ul>
