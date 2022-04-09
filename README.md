@@ -28,4 +28,5 @@
     <li>Verfificar a instalação <code>tsc -v</code></li>
     <li>Criando um arquivo de configuração do projeto TypeScript <code>tsc --init</code></li>
     <li>Compilar <code>tsc</code></li>
+    <li>Compilação Automatica<code>tsc -w</code></li>
 </ul>
