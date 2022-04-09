@@ -42,4 +42,11 @@
     <li>union type</li>
     <li>type alias</li>
     <li>enum</li>
+    <li>literal types</li>
+    <li>functions</li>
+    <li>interfaces</li>
+    <li>narrowing</li>
+    <li>generics</li>
+    <li>classes</li>
+    <li>herança</li>
 </ul>
