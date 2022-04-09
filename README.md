@@ -24,4 +24,6 @@
     <li>E vamos adicionar de forma global com o <b>flag -g</b>;</li>
     <li>A partir da instalação temos como <b>executar/compilar</b> TS em qualquer local da nossa máquina, com os comando 
     <b>tsc</b>;</li>
+    <li>Instalar pelo npm <code>npm i -g typescript</code></li>
+    <li>Verfificar a instalação <code>tsc -v</code></li>
 </ul>
