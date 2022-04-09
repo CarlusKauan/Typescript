@@ -30,3 +30,16 @@
     <li>Compilar <code>tsc</code></li>
     <li>Compilação Automatica<code>tsc -w</code></li>
 </ul>
+
+## TypeScript 
+<ul>
+    <li>tipos básicos: string, bollean, number</li>
+    <li>inferencia x annotation</li>
+    <li>object</li>
+    <li>tuplas</li>
+    <li>objects literais => {prop: values}</li>
+    <li>any</li>
+    <li>union type</li>
+    <li>type alias</li>
+    <li>enum</li>
+</ul>
