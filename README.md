@@ -15,4 +15,12 @@
     <li>Com TS podemos <b>verificar os erros antes da execução</b> do código, ou seja, no desenvolvimento</li>
     <li>Deixa JavaScript <b>mais explícito</b>, diminuindo a quantidade de bugs;</li>
     <li>Por estes e outros motivos <b>perdemos menos tempo com debug</b></li>
+</ul>
+
+## Instalando o Typescript
 <ul>
+    <li>Para instalar o TypeScript vamos utilizar<b>npm</b>;</li>
+    <li>O nome do pacorte é <b>typescript</b></li>
+    <li>E vamos adicionar de forma global com o <b>flag -g</b>;</li>
+    <li>A partir da instalação temos como <b>executar/compilar</b> TS em qualquer local da nossa máquina, com os comando <b>tsc</b></li>
+</ul>
