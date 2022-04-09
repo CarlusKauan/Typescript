@@ -19,8 +19,9 @@
 
 ## Instalando o Typescript
 <ul>
-    <li>Para instalar o TypeScript vamos utilizar<b>npm</b>;</li>
-    <li>O nome do pacorte é <b>typescript</b></li>
+    <li>Para instalar o TypeScript vamos utilizar <b>npm</b>;</li>
+    <li>O nome do pacorte é <b>typescript</b>;</li>
     <li>E vamos adicionar de forma global com o <b>flag -g</b>;</li>
-    <li>A partir da instalação temos como <b>executar/compilar</b> TS em qualquer local da nossa máquina, com os comando <b>tsc</b></li>
+    <li>A partir da instalação temos como <b>executar/compilar</b> TS em qualquer local da nossa máquina, com os comando 
+    <b>tsc</b>;</li>
 </ul>
