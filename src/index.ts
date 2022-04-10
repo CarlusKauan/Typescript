@@ -10,7 +10,7 @@ let z:number = 14
 // String != string
 console.log(typeof(myname) + "->" + typeof(myheight) + "->" + typeof(happy))
 
-// object
+// array
 const myNumbers: number[] = [10,20,30,50]
 const myNumberJs = [10,20,30]
 myNumberJs.push(100)
@@ -27,6 +27,16 @@ console.log("Meu nome é: " + myname + " Minha altura "  + myheight + " Estou fe
 let myTuple: [number, string, string[]]
 myTuple = [5, "teste", ["a","b","c"]]
 console.log(myTuple)
+
+// objects
+const livros = {
+    nome: "A biblia do meu dia a dia",
+    lançamento: 2002,
+    author: "Padre Jonas Habib"
+}
+
+console.log("Nome do livro: " + livros.nome)
+console.log("Lançamento do livro: " + livros.lançamento)
 
 // objects literais => {prop: values}
 
