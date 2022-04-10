@@ -22,6 +22,13 @@ console.log("Meu nome é: " + myname + " Minha altura " + myheight + " Estou fel
 let myTuple;
 myTuple = [5, "teste", ["a", "b", "c"]];
 console.log(myTuple);
+const livros = {
+    nome: "A biblia do meu dia a dia",
+    lançamento: 2002,
+    author: "Padre Jonas Habib"
+};
+console.log("Nome do livro: " + livros.nome);
+console.log("Lançamento do livro: " + livros.lançamento);
 const user = {
     name: "Carlos",
     age: 18
